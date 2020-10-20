@@ -9,7 +9,9 @@ If you setup the batch file in your Windows PATH you can run the program in the 
 `plot_cg filepath filetype title(opt) N(opt)`  
 
 You can install matplotlib by installing the requirements with `pip`:  
-`python -m pip install -r requirements.txt`
+`python -m pip install matplotlib`  
+or
+`python -m pip install -r requirements.txt` (older version)
 
 ### Considerations
 filetype can be either "csv" or "tab"  
