@@ -6,8 +6,10 @@ It does shrink the data in that number at the start and at the end so if you hav
 I know there are libraries that do this and much better, I wanted to try if I could do it. So it is pretty rudimentary.  
 
 If you setup the batch file in your Windows PATH you can run the program in the Windows Run (Win+R) just by passing:  
-
 `plot_cg filepath filetype title(opt) N(opt)`  
+
+You can install matplotlib by installing the requirements with `pip`:  
+`python -m pip install -r requirements.txt`
 
 ### Considerations
 filetype can be either "csv" or "tab"  
