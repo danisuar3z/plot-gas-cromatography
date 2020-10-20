@@ -10,7 +10,7 @@ If you setup the batch file in your Windows PATH you can run the program in the 
 
 You can install matplotlib by installing the requirements with `pip`:  
 `python -m pip install matplotlib`  
-or
+or  
 `python -m pip install -r requirements.txt` (older version)
 
 ### Considerations
