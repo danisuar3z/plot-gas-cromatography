@@ -42,3 +42,4 @@ if __name__ == '__main__':
         plot_cg(sys.argv[1], sys.argv[2], title=sys.argv[3])
     elif len(sys.argv) == 5:
         plot_cg(sys.argv[1], sys.argv[2], title=sys.argv[3], N=sys.argv[4])
+    print('Program finished, you can close this window now.')
